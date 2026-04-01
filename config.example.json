@@ -1,6 +1,6 @@
 {
   "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
-  "api_url": "https://business.proctech.io/api/v1/balance",
+  "api_url": "https://YOUR_DOMAIN/api/v1/balance",
   "notify_interval_minutes": 60,
   "merchants": [
     {
