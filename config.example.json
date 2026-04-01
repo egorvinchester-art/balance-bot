@@ -1,0 +1,13 @@
+{
+  "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "api_url": "https://business.proctech.io/api/v1/balance",
+  "notify_interval_minutes": 60,
+  "merchants": [
+    {
+      "name": "MerchantName",
+      "group_id": -100XXXXXXXXXX,
+      "bearer_token": "BEARER_TOKEN_HERE",
+      "currencies": ["USD"]
+    }
+  ]
+}
